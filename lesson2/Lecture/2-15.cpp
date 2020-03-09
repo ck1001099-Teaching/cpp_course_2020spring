@@ -14,7 +14,7 @@ int main(){
 		total = total + i;
 	}
 
-	cout << total;
+	cout << total << endl;
 	
 	return 0;
 }
